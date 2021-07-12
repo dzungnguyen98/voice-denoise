@@ -5,6 +5,9 @@ Cancel environment noises from speech in an audio.
 * Cancel environment noises from speech like: air conditioner, machine, type key board, rain,... 
 * This project is developed by my colleagues and me.
 
+# Example:
+Check Example folder.
+
 # Languagess:
 - python
 
